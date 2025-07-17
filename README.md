@@ -1,2 +1,3 @@
-# Hospital
-A functional and visually rich hospital dashboard that helps stakeholders monitor operations, analyze trends, and improve healthcare decisions using real-time structured data.
+# Hospital Dashboard
+## This project aims to design an interactive Hospital Management Dashboard using real-world healthcare data and MySQL for backend querying. It focuses on analyzing key hospital operations such as patient records, doctor performance, medicine usage, appointment tracking, and financial summaries. Using JOINs, CASE statements, and VIEWS, the project provides actionable insights through charts and tables to support data-driven decision-making in hospital administration.
+
