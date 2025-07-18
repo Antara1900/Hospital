@@ -31,6 +31,16 @@ o	Useful for quality assurance and service improvement.
 ##  Dashboard
 <img width="1280" height="662" alt="Patient_Dashboard" src="https://github.com/user-attachments/assets/5527dd5c-3d5d-4fa9-9704-caf4884c73ec" />
 
+ -- Integrated a bookmark toggle (edit icon & close icon) in the Patient Dashboard to show or hide a slicer panel for filtering and viewing individual patient details dynamically.
+
+
+
+
+
+
+
+
+
 
 
 
