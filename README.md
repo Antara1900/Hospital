@@ -98,10 +98,18 @@ o	Useful for quality assurance and service improvement.
 
 <img width="1226" height="663" alt="Finance_Dashboard" src="https://github.com/user-attachments/assets/c3b03111-1f79-4b7b-9be2-b3fddc44d2fc" />
 
+## Project Insight
+
+1	Patient Care Trends: Most patients fall in the 31–45 age group, with frequent abnormal test results, highlighting a need for focused diagnosis and adult care services.
+  
+2	Doctor & Resource Utilization: High room occupancy (especially ICU/Private) and detailed doctor performance tracking (availability, ratings, earnings) support efficient staffing and scheduling.
+   
+3	Financial & Inventory Management: Surgery contributes the highest revenue, and monthly medicine sales trends help optimize inventory and restocking decisions.
 
 
+## Final Conclusion
 
-
+To drive growth, the hospital should focus on expanding high-demand services like surgery and ICU care, as they bring in the most revenue and are often fully occupied. Additionally, since most patients are adults with abnormal test results, targeted wellness programs and preventive care services can boost patient retention and trust.
  
 
 
