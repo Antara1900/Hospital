@@ -37,26 +37,26 @@ o	Useful for quality assurance and service improvement.
 ##  Doctor Dashboard
 
 1.	Doctor Summary Panel (Top-Left):
-   Purpose: Quick profile and availability view of the doctor.
+   Quick profile and availability view of the doctor.
 
 2.	 Appointment Schedule (Bottom-Left):
-     Purpose: Helps doctor track patient visit history and upcoming slots
+    Helps doctor track patient visit history and upcoming slots
   	 
 4.	 Summary KPIs (Top-Center):
-   	Purpose: Provide a snapshot of overall earnings and patient count
+   	Provide a snapshot of overall earnings and patient count
   	 
 6.	 Gauge Chart – Commission Estimator (Middle-Right):
-    Visually estimates commission based on slider value (currently 49)
-    urpose: Dynamic calculation tool to predict earnings from commission
+    Visually estimates commission based on slider value (currently 49).
+    Dynamic calculation tool to predict earnings from commission
     
 8.	 Rating & Feedback (Center-Left):
-     Purpose: Collects and reflects patient satisfaction for service quality
+    Collects and reflects patient satisfaction for service quality
   	 
 10.	 Patient Table (Bottom-Right):
-   Purpose: Track financial and status-wise details of each patient treated by the doctor.
+     Track financial and status-wise details of each patient treated by the doctor.
 
 12.	 Financial Stats Cards (Bottom-Center):
-   Purpose: Track doctor’s performance and compensation breakdown.
+     Track doctor’s performance and compensation breakdown.
 
 ## Dashboard
 
