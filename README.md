@@ -85,6 +85,21 @@ o	Useful for quality assurance and service improvement.
  <img width="1300" height="669" alt="Hospital_Details" src="https://github.com/user-attachments/assets/ea0f7bed-995f-498a-a304-cb3598b81f49" />
 
 
+ ## Finance Dashboard
+
+ 1  Monthly Medicine Sale Chart – Tracks medicine sales across months to identify peak selling periods (June is highest).
+ 
+ 2  Charges Type Bar Chart – Breaks down hospital revenue by category (surgery, room, tests) to analyze earning sources.
+ 
+ 3  Medicine Stock vs Sale Bars – Compares current stock vs sales to monitor inventory usage and restocking needs.
+
+ 
+## Dashboard 
+
+<img width="1226" height="663" alt="Finance_Dashboard" src="https://github.com/user-attachments/assets/c3b03111-1f79-4b7b-9be2-b3fddc44d2fc" />
+
+
+
 
 
  
