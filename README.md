@@ -65,6 +65,27 @@ o	Useful for quality assurance and service improvement.
  -- Integrated a bookmark toggle (edit icon & close icon) in the Doctor Dashboard to show or hide a slicer panel for filtering and viewing individual patient details dynamically.
 
 
+## Hospital Details
+
+ 1  Surgery Appointment Time/Date – Tracks upcoming surgeries with patient names and timings for scheduling.
+ 
+ 2  Patient By Age Category (Bar Chart) – Shows age-wise distribution to analyze which age group needs more care.
+ 
+ 3  Room Type With Status (Stacked Bar Chart) – Displays bed availability by room type for resource planning.
+ 
+ 4  Patient Test Table – Summarizes test results and medical notes to track diagnosis history.
+ 
+ 5  Patient Selector Buttons – Quick access to specific patients’ test or treatment info.
+ 
+ 6  Doctor Recommendation Table – Shows doctor suggestions based on patient complaints for better follow-up and treatment tracking
+
+
+ ## Dashboard
+
+ <img width="1300" height="669" alt="Hospital_Details" src="https://github.com/user-attachments/assets/ea0f7bed-995f-498a-a304-cb3598b81f49" />
+
+
+
 
  
 
